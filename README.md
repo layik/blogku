@@ -8,9 +8,9 @@
 <br/>
 <ul dir="rtl">
 <li>
-* [گیتهەب و کوردی](https://layik.github.io/blogku/گیتهەب) فێرکاری.
+[گیتهەب و کوردی](https://layik.github.io/blogku/گیتهەب) فێرکاری.
 </li><li>
-* [بۆ ناهێڵن بخوێنینەوە](https://layik.github.io/blogku/بۆ%20ناهێڵن%20بخوێنینەوە؟) بۆ ناهێڵن بخوێنینەوە.
+[بۆ ناهێڵن بخوێنینەوە](https://layik.github.io/blogku/بۆ%20ناهێڵن%20بخوێنینەوە؟) بۆ ناهێڵن بخوێنینەوە.
 </li>
 </ul>
 
