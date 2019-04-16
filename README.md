@@ -11,7 +11,7 @@ permalink: /index.html
 بابەتەکان:
 - 
 
-* [میدیا](https://layik.github.io/blogku/میدیا) میدیا.
+* [میدیا](https://layik.github.io/blogku/میدیا).
 
 * [گیتهەب و کوردی](https://layik.github.io/blogku/گیتهەب) فێرکاری.
 
