@@ -11,6 +11,8 @@ permalink: /index.html
 بابەتەکان:
 - 
 
+* [خۆشبەختی خۆت نەک داماوی خەڵک](https://layik.github.io/blogku/خۆت).
+
 * [میدیا](https://layik.github.io/blogku/میدیا).
 
 * [گیتهەب و کوردی](https://layik.github.io/blogku/گیتهەب) فێرکاری.
