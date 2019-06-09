@@ -11,12 +11,16 @@ permalink: /index.html
 بابەتەکان:
 - 
 
+* [نیۆلیبراڵیزم](https://layik.github.io/blogku/نیۆلیبراڵیزم).
+
+* [خۆشبەختی خۆت نەک داماوی خەڵک](https://layik.github.io/blogku/خۆت).
+
+
 * [میدیا](https://layik.github.io/blogku/میدیا).
+
 
 * [گیتهەب و کوردی](https://layik.github.io/blogku/گیتهەب) فێرکاری.
 
 * [بۆ ناهێڵن بخوێنینەوە](https://layik.github.io/blogku/بۆ%20ناهێڵن%20بخوێنینەوە) بۆ ناهێڵن بخوێنینەوە.
-
-* [نیۆلیبراڵیزم](https://layik.github.io/blogku/نیۆلیبراڵیزم).
 
 </div>
