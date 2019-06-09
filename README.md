@@ -17,5 +17,6 @@ permalink: /index.html
 
 * [بۆ ناهێڵن بخوێنینەوە](https://layik.github.io/blogku/بۆ%20ناهێڵن%20بخوێنینەوە) بۆ ناهێڵن بخوێنینەوە.
 
+* [نیۆلیبراڵیزم](https://layik.github.io/blogku/نیۆلیبراڵیزم).
 
 </div>
