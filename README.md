@@ -11,6 +11,8 @@ permalink: /index.html
 بابەتەکان:
 - 
 
+* [دواکەوتنی عەرەب](https://layik.github.io/blogku/دواکەوتنی_عەرەب).
+
 * [نیۆلیبراڵیزم](https://layik.github.io/blogku/نیۆلیبراڵیزم).
 
 * [خۆشبەختی خۆت نەک داماوی خەڵک](https://layik.github.io/blogku/خۆت).
